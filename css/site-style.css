@@ -1,0 +1,40 @@
+body{
+font-size: 40px;
+}
+.conainer{
+    display: flex;
+    justify-items: f;
+}
+.logo{
+    background-color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.nav{
+    background-color: purple;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.content{
+    background-color: grey;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.feature{
+    background-color: yellow;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer{
+    color: white;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    
+}
