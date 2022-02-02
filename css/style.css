@@ -23,7 +23,7 @@
 .content{
     grid-area: content;
 }
-feature{
+.feature{
     grid-area: feature;
 }
 .footer{
