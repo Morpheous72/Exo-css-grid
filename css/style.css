@@ -15,8 +15,7 @@
     ;
 }
 .logo{
-    grid-area: logo;
-    
+    grid-area: logo;  
 }
 .nav{
     grid-area: nav;
@@ -42,5 +41,4 @@ feature{
         "footer"
         ;
     }
-    
 }
