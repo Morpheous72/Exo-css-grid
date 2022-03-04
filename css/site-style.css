@@ -1,40 +1,44 @@
-body{
-font-size: 40px;
+body {
+    font-size: 40px;
 }
-.conainer{
+
+.conainer {
     display: flex;
     justify-items: f;
 }
-.logo{
+
+.logo {
     background-color: red;
     display: flex;
     align-items: center;
     justify-content: center;
-    
 }
-.nav{
+
+.nav {
     background-color: purple;
     display: flex;
     align-items: center;
     justify-content: center;
 }
-.content{
+
+.content {
     background-color: grey;
     display: flex;
     align-items: center;
     justify-content: center;
 }
-.feature{
+
+.feature {
     background-color: yellow;
     display: flex;
     align-items: center;
     justify-content: center;
 }
-.footer{
+
+.footer {
     color: white;
     background-color: black;
     display: flex;
     align-items: center;
-    justify-content: center; 
-    
+    justify-content: center;
 }
